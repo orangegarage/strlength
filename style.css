@@ -1,0 +1,18 @@
+textarea#filepath{
+    width: 50%;
+    height: 6em;
+    border: 1px solid black;
+    font-family: 'Arial, sans-serif';
+    outline:none;
+    resize:none;
+    overflow:auto;
+}
+
+button{
+    width:7em;
+    background-color:#e7e7e7;
+    border:none;
+    color:black;
+    text-align: center;
+    font-size:1em;
+}
